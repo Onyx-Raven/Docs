@@ -1,3 +1,7 @@
+---
+permalink: /OfficialPDRTestsofUkrainePrivacyPolicy.html
+---
+
 **Privacy Policy**
 
 Onyx Raven built the Official PDR Tests of Ukraine app as an Ad Supported app. This SERVICE is provided by Onyx Raven at no cost and is intended for use as is.
